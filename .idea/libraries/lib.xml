@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/wk1-percolation/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/wk1-percolation/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/wk1-percolation/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/wk1-percolation/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
